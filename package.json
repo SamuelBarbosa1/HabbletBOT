@@ -1,0 +1,18 @@
+{
+  "name": "habbletbot",
+  "version": "1.0.0",
+  "description": "Bot para pesquisa de usuários no Habblet Hotel",
+  "main": "buscarHabbo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node buscarHabbo.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^23.1.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

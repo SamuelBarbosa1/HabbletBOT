@@ -10,7 +10,7 @@
  * |                                                   |
  * | CASO ESTEJA PERDIDO.. EU TAMBÉM ESTOU !!          |
  * | CRIEI O BOT EM UM MOMENTO DE TÉDIO, MAS           |
- * | AQUI ESTÃO ALGUMAS ESPECIFICAÇÕES:    :BadMi            |
+ * | AQUI ESTÃO ALGUMAS ESPECIFICAÇÕES:        |
  * |                                                   |
  * | - A variavel args[0] guarda o player a ser        |
  * |   pesquisado quando você digita:                  |

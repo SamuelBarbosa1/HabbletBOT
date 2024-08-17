@@ -2,10 +2,10 @@
   "name": "habbletbot",
   "version": "1.0.0",
   "description": "Bot para pesquisa de usuários no Habblet Hotel",
-  "main": "buscarHabbo.js",
+  "main": "buscarHabbo.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node buscarHabbo.js"
+    "start": "node buscarHabbo.mjs"
   },
   "keywords": [],
   "author": "",
@@ -13,6 +13,7 @@
   "dependencies": {
     "puppeteer": "^23.1.0",
     "puppeteer-extra": "^3.3.6",
-    "puppeteer-extra-plugin-stealth": "^2.11.2"
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "puppeteer-real-browser": "^1.2.33"
   }
 }
